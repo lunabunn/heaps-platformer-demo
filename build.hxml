@@ -1,0 +1,6 @@
+-cp src
+-main Main
+-lib heaps
+-lib hlsdl
+-hl bin/Main.hl
+-dce full
